@@ -1,0 +1,17 @@
+frmMain = 132, 174, 738, 660, C, 44, 58, 650, 544, C
+PNAButton = 44, 44, 857, 706, , 0, 0, 0, 0, C
+PNACheckBox = 154, 203, 760, 689, , 0, 0, 606, 486, C
+PNARadioButton = 110, 145, 716, 631, , 0, 0, 0, 0, C
+PNATextBox = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+PNASuperGrid = 22, 29, 628, 515, Z, 88, 116, 694, 602, C
+PNATreeView = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+PNAComboBox = 110, 110, 923, 772, , 0, 0, 0, 0, C
+PNAReportExcel = 22, 29, 628, 515, C
+PNAReportCrystalReport = 66, 87, 672, 573, C
+PNAButtonForm = 66, 66, 879, 728, , 0, 0, 0, 0, C
+PNAForm = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+PNAVariable = 110, 145, 716, 631, C
+PNALabel = 154, 154, 967, 816, , 132, 132, 945, 794, C
+frmXPMenu = 0, 0, 0, 0, C, 110, 145, 716, 631, C
+PNAXPMenu = 0, 0, 0, 0, C
+clsXPMenu = 0, 0, 0, 0, C
